@@ -7,14 +7,10 @@
 @theme {
   --color-bg: #ffffff;
   --color-surface: #f4f4f4;
-  --color-dark: #000000;
   --color-ink: #111111;
   --color-body: #333333;
   --color-muted: #6b6b6b;
   --color-line: #e4e4e4;
-
-  --font-sans: var(--font-lora), ui-serif, Georgia, Cambria,
-    "Times New Roman", serif;
 }
 
 :root {

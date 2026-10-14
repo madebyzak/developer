@@ -12,33 +12,34 @@ const siteUrl = "https://zakfaithfull.vercel.app";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
-  title: "Zak Faithfull — Senior Frontend Developer",
+  title: "Zak Faithfull — Senior Full Stack Engineer",
   description:
-    "Senior frontend developer available for freelance and contract work. I build fast, accessible, and delightful web experiences with React, Next.js, and TypeScript.",
+    "Senior full stack engineer available for freelance and project work. I build fast, accessible web applications with React, Next.js, TypeScript, Node.js, and GraphQL.",
   keywords: [
-    "Senior Frontend Developer",
+    "Senior Full Stack Engineer",
+    "Full Stack Developer",
     "React",
     "Next.js",
     "TypeScript",
+    "Node.js",
+    "GraphQL",
     "Freelance",
     "Contract",
-    "Design Systems",
-    "Web Performance",
   ],
   authors: [{ name: "Zak Faithfull" }],
   openGraph: {
     type: "website",
     url: siteUrl,
-    title: "Zak Faithfull — Senior Frontend Developer",
+    title: "Zak Faithfull — Senior Full Stack Engineer",
     description:
-      "Available for freelance and contract work. Fast, accessible, delightful web experiences built with React, Next.js, and TypeScript.",
+      "Available for freelance and project work. Fast, accessible web applications built with React, Next.js, TypeScript, Node.js, and GraphQL.",
     siteName: "Zak Faithfull",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Zak Faithfull — Senior Frontend Developer",
+    title: "Zak Faithfull — Senior Full Stack Engineer",
     description:
-      "Available for freelance and contract work. Fast, accessible, delightful web experiences built with React, Next.js, and TypeScript.",
+      "Available for freelance and project work. Fast, accessible web applications built with React, Next.js, TypeScript, Node.js, and GraphQL.",
   },
 };
 
